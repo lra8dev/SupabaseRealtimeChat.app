@@ -17,7 +17,7 @@
 
 ## 🎯 Live Demo
 
-Check out the live application: [RealtimeChat.app](supabase-realtime-chat-app.vercel.app)
+Check out the live application: [RealtimeChat.app](https://supabase-realtime-chat-app.vercel.app/)
 
 ## 🛠️ Tech Stack
 
